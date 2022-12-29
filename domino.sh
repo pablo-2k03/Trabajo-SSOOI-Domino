@@ -1154,8 +1154,8 @@ function presenta_autores(){
   echo "                AUTORES"
   echo "========================================"
   echo "Trabajo realizado por:
-  Pablo Aguera Hernandez  DNI: 70959394R
-  Carlota Delgado Sastre  DNI: 70919297Q "
+  Pablo Aguera Hernandez  
+  Carlota Delgado Sastre   "
   echo "========================================"
   sleep 5
   clear
