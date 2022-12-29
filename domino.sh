@@ -66,7 +66,7 @@ function modificar(){
         echo -e "\nModificando datos..."
         perl -pi -e 's/JUGADORES=.*/JUGADORES='$JUGADORES'/' $file
         sleep 1
-         echo "Numero de jugadores modificado correctamente."
+        echo "Numero de jugadores modificado correctamente."
         sleep 1
         ;;
   "b" | "B")
