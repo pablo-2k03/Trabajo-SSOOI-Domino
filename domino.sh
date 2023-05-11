@@ -1151,9 +1151,7 @@ function presenta_autores(){
   echo "========================================"
   echo "                AUTORES"
   echo "========================================"
-  echo "Trabajo realizado por:
-  Pablo Aguera Hernandez  
-  Carlota Delgado Sastre   "
+  echo "Trabajo realizado por: "
   echo "========================================"
   sleep 5
   clear
